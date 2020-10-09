@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "Node-REDプロジェクト",
+    "description": "ヒーター制御",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
